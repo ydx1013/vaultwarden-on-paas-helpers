@@ -25,7 +25,7 @@ See the [installation guide][install-guide] on installing BitwardenRS on either 
 <!-- TODO: Point to the docs site soon! -->
 [install-guide]: SETUP.md
 
-Ypu can even follow the setup guide in an cloud environment like Gitpod. Just hit the button below, and you can fire up the terminal and follow along without ever needing to install anything in your local machine
+You can even follow the setup guide in an cloud environment like Gitpod. Just hit the button below, and you can fire up the terminal and follow along without ever needing to install anything in your local machine
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AndreiJirohHaliliDev2006/bitwardenrs-on-divio)
 
